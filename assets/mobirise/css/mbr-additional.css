@@ -782,3 +782,74 @@ section.lazy-placeholder:after {
 .cid-s70R8YS2dg .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-s73WzzDrTk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-s73WzzDrTk .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s73WzzDrTk .section-text {
+  padding: 2rem 0;
+}
+.cid-s73WzzDrTk .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s73WzzDrTk .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s73WjrGFCe {
+  background-image: url("../../../assets/images/dsc-210-2000x1333.jpg");
+}
+.cid-s73WfXCvUz {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-s73WfXCvUz h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-s73WfXCvUz p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-s73WfXCvUz .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-s73WfXCvUz .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-s73WfXCvUz .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+  width: 100%;
+}
+@media (max-width: 991px) {
+  .cid-s73WfXCvUz .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-s73WfXCvUz .card-box {
+    padding-left: 0;
+  }
+}
+.cid-s73WfXCvUz .card-title,
+.cid-s73WfXCvUz .card-img {
+  color: #ffffff;
+}
+.cid-s73WfXCvUz P {
+  color: #ffffff;
+}
